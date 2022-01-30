@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "huh"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "where am I?"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "arwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uhhh"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi?"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "arwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "let's sing"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}
