@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Umball_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="notalk0000" x="326" y="0" width="326" height="462"/>
+	<SubTexture name="notalk0001" x="326" y="0" width="326" height="462"/>
+	<SubTexture name="talk0000" x="0" y="0" width="326" height="462"/>
+	<SubTexture name="talk0001" x="0" y="0" width="326" height="462"/>
+	<SubTexture name="talk0002" x="326" y="0" width="326" height="462"/>
+	<SubTexture name="talk0003" x="326" y="0" width="326" height="462"/>
+</TextureAtlas>

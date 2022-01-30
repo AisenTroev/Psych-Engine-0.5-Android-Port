@@ -1,0 +1,24 @@
+{
+	"position": [
+		70,
+		40
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "umball_dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-1
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "notalk",
+			"loop_name": "talk"
+		}
+	]
+}

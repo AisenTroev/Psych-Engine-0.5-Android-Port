@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Arwin_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="awtalk0000" x="0" y="0" width="396" height="489" frameX="-26" frameY="-9" frameWidth="449" frameHeight="508"/>
+	<SubTexture name="awtalk0001" x="396" y="0" width="404" height="499" frameX="-24" frameY="0" frameWidth="449" frameHeight="508"/>
+	<SubTexture name="awtalk0002" x="800" y="0" width="437" height="425" frameX="-2" frameY="-74" frameWidth="449" frameHeight="508"/>
+	<SubTexture name="awtalk0003" x="1237" y="0" width="431" height="421" frameX="-11" frameY="-73" frameWidth="449" frameHeight="508"/>
+	<SubTexture name="awtalk0004" x="0" y="499" width="441" height="455" frameX="-6" frameY="-47" frameWidth="449" frameHeight="508"/>
+	<SubTexture name="awtalk0005" x="441" y="499" width="437" height="452" frameX="0" frameY="-56" frameWidth="449" frameHeight="508"/>
+</TextureAtlas>
