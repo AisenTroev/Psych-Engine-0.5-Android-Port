@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "arwindance",
+	"idle_anim": "arwindance",
+	"position": [
+		180,
+		-50
+	],
+	"scale": 1,
+	"image": "arwin"
+}
