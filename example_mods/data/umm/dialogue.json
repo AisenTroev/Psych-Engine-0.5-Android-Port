@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "where the fuck are we",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "wait a minute...",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "this place looks like the elmore from the\\namazing world of gumba-",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "uhtrweurhefdsfsakjsdfeagrtgergergergr\\ngwergerwyteryetrytryrtyeyetryerya",
+			"boxState": "normal",
+			"speed": 0.02,
+			"portrait": "umball"
+		},
+		{
+			"expression": "talk",
+			"text": "what",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "hello i am umball from the amazing world of\\nfumball",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "umball"
+		},
+		{
+			"expression": "talk",
+			"text": "waitwhat",
+			"boxState": "normal",
+			"speed": 0.01,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "that doesn't makes any sense",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "don't care",
+			"boxState": "normal",
+			"speed": 0.02,
+			"portrait": "umball"
+		},
+		{
+			"expression": "talk",
+			"text": "ratio",
+			"boxState": "normal",
+			"speed": 0.02,
+			"portrait": "umball"
+		},
+		{
+			"expression": "talk",
+			"text": "how? we are not in twitter",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "shut up and sing already!!!!",
+			"boxState": "angry",
+			"speed": 0.025,
+			"portrait": "umball"
+		},
+		{
+			"expression": "talk",
+			"text": "calm down geez",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}
