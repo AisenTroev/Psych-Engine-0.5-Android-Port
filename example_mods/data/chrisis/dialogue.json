@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what the"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why are we back in the mall"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "umball",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "to sing for christmas"
+		},
+		{
+			"speed": 0.015,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "a"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "welp ok"
+		}
+	]
+}
