@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yooo i beat it"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "arwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"speed": 0.025,
+			"portrait": "arwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "tp umball arwin"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "umball",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what now"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "woah"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "arwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he beat me waaaah"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "arwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait a minute...\\nwhy do you look different"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "arwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "y'know what nevermind"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "arwingod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "let's kill him"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "umballscary",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok then"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "fuck"
+		}
+	]
+}
