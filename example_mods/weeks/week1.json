@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"umm",
+			"umball",
+			[
+				131,
+				214,
+				255
+			]
+		],
+		[
+			"balls",
+			"umball",
+			[
+				131,
+				214,
+				255
+			]
+		],
+		[
+			"sucked",
+			"umballspook",
+			[
+				69,
+				69,
+				69
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "belmore",
+	"weekCharacters": [
+		"umball",
+		"bf",
+		"gf"
+	],
+	"storyName": "OMG IS THAT UMBALL?!?!",
+	"weekName": "umballlol",
+	"freeplayColor": [
+		131,
+		214,
+		255
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"pain",
+			"umballspook",
+			[
+				131,
+				214,
+				255
+			]
+		],
+		[
+			"fucked",
+			"arwin",
+			[
+				255,
+				154,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "nothing",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "you're gonna die",
+	"weekName": "umball and arwin",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week2",
+	"startUnlocked": false
+}

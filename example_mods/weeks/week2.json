@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"aww",
+			"arwin",
+			[
+				255,
+				154,
+				0
+			]
+		],
+		[
+			"winning",
+			"arwin",
+			[
+				255,
+				154,
+				0
+			]
+		],
+		[
+			"what",
+			"arwin",
+			[
+				255,
+				154,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "house",
+	"weekCharacters": [
+		"arwin",
+		"bf",
+		"gf"
+	],
+	"storyName": "owo who dis",
+	"weekName": "pp",
+	"freeplayColor": [
+		255,
+		154,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
