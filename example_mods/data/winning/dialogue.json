@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.025,
+			"portrait": "arwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "grrrr i was supposed to win >:["
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hehe lol"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "arwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how did you survived my double notes"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "arwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i thought you are an fnf fan"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "i'm good"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "arwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "shut up"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "arwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "next song"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "arwin",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this time i better win"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}
