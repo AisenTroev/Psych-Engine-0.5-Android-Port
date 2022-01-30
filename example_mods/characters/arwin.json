@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				61,
+				-312
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-314
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-166,
+				-54
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-230,
+				-243
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				-243
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				-33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "boo",
+			"loop": true,
+			"name": "boo"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/arwin",
+	"position": [
+		-60,
+		20
+	],
+	"healthicon": "icon-arwin",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		135,
+		15
+	],
+	"camera_position": [
+		-70,
+		270
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

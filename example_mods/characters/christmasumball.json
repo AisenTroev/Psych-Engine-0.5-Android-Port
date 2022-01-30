@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				231,
+				-372
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-234
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-166,
+				-114
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-182,
+				-231
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-170
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Christmas_Umball",
+	"position": [
+		-170,
+		-70
+	],
+	"healthicon": "icon-umball",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		202,
+		246
+	],
+	"camera_position": [
+		160,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

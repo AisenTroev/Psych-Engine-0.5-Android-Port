@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				199,
+				-3
+			],
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "shoots"
+		},
+		{
+			"offsets": [
+				0,
+				-250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				0,
+				-250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				0,
+				-240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				0,
+				-250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				0,
+				-250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oldumballspook",
+	"position": [
+		-60,
+		-60
+	],
+	"healthicon": "icon-umballspook",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		202,
+		246
+	],
+	"camera_position": [
+		-30,
+		310
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

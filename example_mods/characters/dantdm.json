@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-11,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-90,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-79,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-98,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				11,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "scream",
+			"indices": [],
+			"name": "scream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dantdm",
+	"position": [
+		150,
+		120
+	],
+	"healthicon": "sussy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-50,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

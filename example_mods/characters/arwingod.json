@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				381,
+				-492
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				-684
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-194
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-473
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				10,
+				-243
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Arwingod",
+	"position": [
+		0,
+		-90
+	],
+	"healthicon": "icon-arwin",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		135,
+		15
+	],
+	"camera_position": [
+		-70,
+		270
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				221,
+				-342
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-80,
+				-304
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-106,
+				-144
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-140,
+				-253
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-250
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-250
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oldumball",
+	"position": [
+		-60,
+		20
+	],
+	"healthicon": "icon-umball",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		202,
+		246
+	],
+	"camera_position": [
+		-30,
+		310
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
