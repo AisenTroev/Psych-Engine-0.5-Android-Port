@@ -1,8 +1,8 @@
 {
 	"songs": [
 		[
-			"umm",
-			"umball",
+			"sussus moogus",
+			"imposter",
 			[
 				131,
 				214,
@@ -10,39 +10,30 @@
 			]
 		],
 		[
-			"balls",
-			"umball",
+			"actin-sus",
+			"imposter",
 			[
-				131,
-				214,
-				255
-			]
-		],
-		[
-			"sucked",
-			"umballspook",
-			[
-				69,
-				69,
-				69
+				255,
+				154,
+				0
 			]
 		]
 	],
 	"hideFreeplay": false,
-	"weekBackground": "belmore",
+	"weekBackground": "lol",
 	"weekCharacters": [
-		"umball",
+		"",
 		"bf",
-		"gf"
+		""
 	],
-	"storyName": "OMG IS THAT UMBALL?!?!",
-	"weekName": "umballlol",
+	"storyName": "Time To Kill All",
+	"weekName": "Oh No Imposter",
 	"freeplayColor": [
-		131,
-		214,
-		255
+		146,
+		113,
+		253
 	],
 	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekBefore": "weekamogus",
+	"startUnlocked": false
 }
