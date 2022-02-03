@@ -1,8 +1,8 @@
 {
-	"storyName": "",
+	"storyName": "miki",
 	"difficulties": "Hard",
 	"hideFreeplay": true,
-	"weekBackground": "void",
+	"weekBackground": "ce",
 	"freeplayColor": [
 		146,
 		113,
@@ -17,7 +17,7 @@
 	],
 	"songs": [
 		[
-			"",
+			"I-Am-God",
 			"dad",
 			[
 				146,
@@ -26,6 +26,6 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "69696969696962008"
+	"hideStoryMode": true,
+	"weekName": "vsmiki"
 }

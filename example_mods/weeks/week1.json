@@ -1,39 +1,58 @@
 {
-	"songs": [
-		[
-			"sussus moogus",
-			"imposter",
-			[
-				131,
-				214,
-				255
-			]
-		],
-		[
-			"actin-sus",
-			"imposter",
-			[
-				255,
-				154,
-				0
-			]
-		]
-	],
+	"storyName": "Old Timey Week",
+	"difficulties": "Normal, Hard",
 	"hideFreeplay": false,
-	"weekBackground": "lol",
-	"weekCharacters": [
-		"",
-		"bf",
-		""
-	],
-	"storyName": "Time To Kill All",
-	"weekName": "Oh No Imposter",
+	"weekBackground": "stage",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Bad-Thoughts",
+			"void",
+			[
+				126,
+				126,
+				126
+			]
+		],
+		[
+			"Suffering",
+			"void",
+			[
+				126,
+				126,
+				126
+			]
+		],
+		[
+			"Overjoy",
+			"void",
+			[
+				126,
+				126,
+				126
+			]
+		],
+		[
+			"Hell-Sights",
+			"void",
+			[
+				126,
+				126,
+				126
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"weekBefore": "weekamogus",
-	"startUnlocked": false
+	"weekName": "Custom Week"
 }

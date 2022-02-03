@@ -1,48 +1,40 @@
 {
+	"storyName": "Searching For Mickey",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
-			"aww",
-			"arwin",
+			"Apologize",
+			"void",
 			[
-				255,
-				154,
-				0
+				73,
+				73,
+				73
 			]
 		],
 		[
-			"winning",
-			"arwin",
+			"Bothered",
+			"void",
 			[
-				255,
-				154,
-				0
-			]
-		],
-		[
-			"what",
-			"arwin",
-			[
-				255,
-				154,
-				0
+				73,
+				73,
+				73
 			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "house",
 	"weekCharacters": [
-		"arwin",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"storyName": "owo who dis",
-	"weekName": "pp",
-	"freeplayColor": [
-		255,
-		154,
-		0
-	],
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "sm_minnie"
 }

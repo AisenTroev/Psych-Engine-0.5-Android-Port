@@ -1,0 +1,49 @@
+{
+	"storyName": "Why are you reading this",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"",
+			"void",
+			[
+				186,
+				193,
+				255
+			]
+		],
+		[
+			"Souless-Suffering",
+			"void",
+			[
+				186,
+				193,
+				255
+			]
+		],
+		[
+			"Souless-Overjoy",
+			"void",
+			[
+				186,
+				193,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "SoulessSuicideMouse"
+}
